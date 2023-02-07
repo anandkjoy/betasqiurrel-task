@@ -4,15 +4,15 @@ Assignments
 
 ## Demo
 
-- [Page](https://anandkjoy.github.io/betasqirrel-task/)
+- [Page](https://anandkjoy.github.io/betasqiurrel-task/)
 
 ## Tasks
 
 | Requirements                       | Output                 |
 | ---------------------------------- | ---------------------- |
-| ![task-1](images/requirement/task-1.jpg) | ![out1](images/out/tesk-1.png) |
-| ![task-2](images/requirement/task-2.jpg) | ![out2](images/out/tesk-2.png) |
-| ![task-4](images/requirement/task-4.jpg) | ![out4](images/out/tesk-4.png) |
+| ![task-1](images/requirement/task-1.jpg) | ![out1](images/out/tesk-1.jpeg) |
+| ![task-2](images/requirement/task-2.jpg) | ![out2](images/out/tesk-2.jpeg) |
+| ![task-4](images/requirement/task-4.jpg) | ![out4](images/out/tesk-4.jpeg) |
 
 ## Task 3
 
