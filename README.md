@@ -10,9 +10,9 @@ Assignments
 
 | Requirements                       | Output                 |
 | ---------------------------------- | ---------------------- |
-| ![task-1](images/requirement/task-1.jpg) | ![out1](images/out/tesk-1.jpeg) |
-| ![task-2](images/requirement/task-2.jpg) | ![out2](images/out/tesk-2.jpeg) |
-| ![task-4](images/requirement/task-4.jpg) | ![out4](images/out/tesk-4.jpeg) |
+| ![task-1](images/requirement/task-1.jpg) | ![out1](images/out/tesk-1.jpe) |
+| ![task-2](images/requirement/task-2.jpg) | ![out2](images/out/tesk-2.jpe) |
+| ![task-4](images/requirement/task-4.jpg) | ![out4](images/out/tesk-4.jpe) |
 
 ## Task 3
 
@@ -52,11 +52,13 @@ Read the below links and attend exercises.
 - `ls` - List contents of a directory. Ex: `ls -a` lists hidden files as well.
 - `pwd` - Display current working directory path.
 - `cat` - Display contents of a file. Ex: `cat README.md`
+- `mkdir` - to create a folder in directory ex:`mkdir folder name`
+- `rm -rf` - remove folder in directory Ex:`rm -rf folder name`
 
 ## Git Commands
 
 1. `git config` - Configure git user. Ex: `git config --global user.name "Afsal-Palliyal"`, `git config  --global user.email "palliyalafsal@gmail.com"`
-2. `git clone` - Clone a remote git repo to your local. Ex: `git clone https://github.com/Afsal-Palliyal/betasquirrel-tasks.git`, `git clone https://github.com/Afsal-Palliyal/betasquirrel-tasks.git new-folder`
+2. `git clone` - Clone a remote git repo to your local. Ex: `git clone git@github.com:anandkjoy/betasqiurrel-task.git`
 3. `git add` - Add your file changes to git. Ex: `git add .`, `git add README.md`
 4. `git commit` - Commit changes to git. Ex: `git commit -m "Initial commit"
 5. `git push` - Push your local commits to remote repo. Ex: `git push origin main`
