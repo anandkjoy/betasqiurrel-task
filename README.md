@@ -8,11 +8,11 @@ Assignments
 
 ## Tasks
 
-| Requirements                     | Output                            |
-| -------------------------------- | --------------------------------- |
-| ![task-1](images/task-1.jpg.jpg) | ![output 1](images/output-1.jpeg) |
-| ![task-2](images/task-2.jpg.jpg) | ![output 2](images/output-2.jpeg) |
-| ![task-4](images/task-4.jpg.jpg) | ![output 4](images/output-4.jpeg) |
+| Requirements                     | Output                                 |
+| -------------------------------- | -------------------------------------- |
+| ![task-1](images/task-1.jpg.jpg) | ![output 1](images/output-1.jpeg.jpeg) |
+| ![task-2](images/task-2.jpg.jpg) | ![output 2](images/output-2.jpeg.jpeg) |
+| ![task-4](images/task-4.jpg.jpg) | ![output 4](images/output-3.jpeg.jpeg) |
 
 ## Task 3
 
